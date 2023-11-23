@@ -1,6 +1,3 @@
 # Ecommerce-shop
 
-# Kullanılan Kütüphaneler
-
-- Tailwind Css
-- Favicon
+ Bu projede, React kullanarak bir e-ticaret sitesi geliştirdim. Projede, verileri yönetmek için Context API'yi kullandım. Sayfalar arası gezinme işlemleri için React Router Dom'u entegre ettim. Arayüz tasarımında ise Tailwind CSS kullanarak hızlı ve etkili bir stile sahip oldum.Favicon entegrasyonu ile web sayfasının tarayıcı sekmesinde görünen simgeyi özelleştirdim. Veri alışverişi için Fetch API'yi kullanarak Fake Store API üzerinden ürün bilgilerini çektim ve kullanıcıya sunabildim.Bu teknoloji ve araçları kullanarak geliştirdiğim e-ticaret sitesi projesi, kullanıcı dostu bir arayüze sahip ve verileri etkili bir şekilde yöneten bir yapıya sahiptir.
