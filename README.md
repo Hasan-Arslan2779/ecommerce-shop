@@ -1,1 +1,6 @@
-# ecommerce-shop-starter
+# Ecommerce-shop
+
+# Kullanılan Kütüphaneler
+
+- Tailwind Css
+- Favicon
